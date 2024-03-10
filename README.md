@@ -1,2 +1,2 @@
-# IMTZ_wood
-Script Fivem Job WoodCutter
+# Script Fivem Job WoodCutter
+
