@@ -1,0 +1,13 @@
+['wood'] = {
+    label = 'Wood',
+    weight = 750,
+    stack = true,
+    close = false,
+},
+
+['axe'] = {
+    label = 'Axe',
+    weight = 450,
+    stack = false,
+    close = false,
+}
